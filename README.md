@@ -1,5 +1,5 @@
 # Huggintosh
-Fully working AMD-Hackintosh
+Fully working AMD-Hackintosh OpenCore
 Hardware:
 - Ryzen 3800x
 - Radeon 5700xt
@@ -8,3 +8,5 @@ Hardware:
 - 32GB Corsair Vengeance 3600mhz Ram
 - TP-Link Archer T9E
 - Corsair HX850i 850W PSU
+
+MacOS BigSur 11.1
